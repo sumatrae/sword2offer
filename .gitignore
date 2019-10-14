@@ -24,7 +24,6 @@
 *.lai
 *.la
 *.a
-*.lib
 
 # Executables
 *.exe
@@ -38,4 +37,8 @@
 *.lastbuildstate
 *.CopyComplete
 *.opendb
+*.db
+*.suo
+*.db-shm
+*.db-wal
 
